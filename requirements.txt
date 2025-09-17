@@ -1,0 +1,8 @@
+google-generativeai
+python-dotenv
+sounddevice
+numpy
+librosa
+soundfile
+websockets
+pynput
