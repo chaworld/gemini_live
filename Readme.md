@@ -21,4 +21,3 @@
 
 # 範例專案:
 Colab示例: https://colab.research.google.com/github/google-gemini/cookbook/blob/main/quickstarts/websockets/LiveAPI_streaming_in_colab.ipynb
-
